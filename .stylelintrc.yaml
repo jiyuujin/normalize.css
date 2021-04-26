@@ -1,0 +1,61 @@
+# https://stylelint.io
+
+plugins:
+  - stylelint-scss
+
+syntax:
+  - scss
+
+extends:
+  # standard > recommended
+  - stylelint-config-standard
+  # Order by properties
+  - stylelint-config-recess-order
+
+rules:
+  # Specify single or double quotes around strings.
+  string-quotes: double
+  # Limit the number of adjacent empty lines.
+  max-empty-lines: 2
+  # selector-list-comma-newline-after
+  selector-list-comma-newline-after: always-multi-line
+  # selector-max-specificity
+  selector-max-specificity: 0,2,0
+  # Require or disallow a leading zero for fractional numbers less than 1.
+  number-leading-zero: never
+  # Disallow vendor prefixes for properties.
+  property-no-vendor-prefix: true
+  # Disallow vendor prefixes for values.
+  value-no-vendor-prefix: true
+  # Disallow trailing zeros in numbers.
+  number-no-trailing-zeros: true
+  # Disallow empty blocks.
+  block-no-empty: true
+  # Disallow invalid hex colors.
+  color-no-invalid-hex: true
+  # Disallow vendor prefixes for media feature names.
+  media-feature-name-no-vendor-prefix: true
+  # Require or disallow a trailing semicolon within declaration blocks.
+  declaration-block-trailing-semicolon: always
+  # Disallow duplicate properties within declaration blocks.
+  declaration-block-no-duplicate-properties: true
+  # Require a newline or disallow whitespace after the colon of declarations.
+  declaration-colon-newline-after: null
+  # Disallow !important within declarations.
+  declaration-no-important: true
+  # Disallow shorthand properties that override related longhand properties.
+  declaration-block-no-shorthand-property-overrides: true
+  # declaration-colon-space-after
+  declaration-colon-space-after: always
+  # Require a single space or disallow whitespace before the colon of declarations.
+  declaration-colon-space-before: never
+  # Disallow direction values in linear-gradient() calls that are not valid according to the standard syntax.
+  function-linear-gradient-no-nonstandard-direction: true
+  # Require a single space or disallow whitespace after the commas of functions.
+  function-comma-space-after: always
+  # Require a single space or disallow whitespace after the colon in media features.
+  media-feature-colon-space-after: always
+  # Require a single space or disallow whitespace before the colon in media features.
+  media-feature-colon-space-before: never
+  # Disallow end-of-line whitespace.
+  no-eol-whitespace: true

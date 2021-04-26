@@ -1,0 +1,31 @@
+{
+  "name": "@nekohack/normalize.css",
+  "version": "1.2.1",
+  "description": "",
+  "author": "yuukit <yuma.kitamura@ponos.co.jp>",
+  "main": "dist/index.css",
+  "scripts": {
+    "gulp": "npm run clean && gulp --gulpfile gulpfile.js",
+    "gulp:w": "npm run clean && gulp watch --gulpfile gulpfile.js",
+    "clean": "rm -rf dist",
+    "lint": "gulp lint-styles && npm run stylelint",
+    "stylelint": "stylelint --config .stylelintrc.yaml './sass/**/*.scss'",
+    "stylelint:fix": "stylelint --config .stylelintrc.yaml './sass/**/*.scss' --fix"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "gulp": "4.0.2",
+    "gulp-load-plugins": "2.0.6",
+    "gulp-plumber": "1.2.1",
+    "gulp-postcss": "8.0.0",
+    "gulp-sass": "4.1.0",
+    "gulp-stylelint": "13.0.0",
+    "postcss-reporter": "6.0.1",
+    "postcss-scss": "2.1.1",
+    "sass": "^1.32.7",
+    "stylelint": "13.9.0",
+    "stylelint-config-recess-order": "2.3.0",
+    "stylelint-config-standard": "20.0.0",
+    "stylelint-scss": "3.19.0"
+  }
+}
