@@ -1,0 +1,15 @@
+.g-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25em;
+  margin-bottom: 40px;
+  vertical-align: middle;
+  background: #fff;
+
+  &-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #888;
+  }
+}
