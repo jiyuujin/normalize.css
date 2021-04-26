@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## `v2.0.0`
+
+### [feat]
+- Layout Customize
+  - Header
+  - Footer
+  - Footer Alert
+
 ## `v1.2.1`
 
 ### [update]
