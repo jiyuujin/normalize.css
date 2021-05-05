@@ -23,7 +23,7 @@
 
   h2 {
     font-size: 1.2vmax;
-    text-align: center;
+    text-align: left;
   }
 
   .info {
@@ -40,6 +40,10 @@
       width: 100%;
       padding: 0;
       text-align: center;
+    }
+
+    .info {
+      flex-direction: column;
     }
   }
 }
