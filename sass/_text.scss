@@ -1,0 +1,26 @@
+.title {
+  display: block;
+  width: 240px;
+  max-height: 4.55em;
+  overflow: hidden;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  margin-top: .5rem;
+  font-size: .9em;
+}
+
+@media screen and (max-width: 768px) {
+  .title {
+    width: 200px;
+  }
+}

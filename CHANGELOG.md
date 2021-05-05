@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## `v2.1.0`
+
+### [feat]
+- Feed Customize
+  - Section
+  - Text
+  - Feed
+
 ## `v2.0.0`
 
 ### [feat]
