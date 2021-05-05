@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## `v2.1.1`
+
+### [update]
+- Update styles
+  - Paragraph
+  - Explanation
+
 ## `v2.1.0`
 
 ### [feat]
