@@ -1,0 +1,45 @@
+.feeds {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0 4px;
+  overflow: hidden;
+
+  a {
+    margin: 0;
+    text-decoration: none;
+  }
+}
+
+.feed-card {
+  display: flex;
+  justify-content: flex-start;
+  width: 50%;
+  padding: 15px 0;
+  overflow: hidden;
+
+  .reaction-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 84px;
+    height: 84px;
+    margin: 8px;
+    font-size: 42px;
+    border: 1px #e2e2e2 solid;
+    border-radius: 12px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .feeds {
+    flex-direction: column;
+  }
+
+  .feed-card {
+    width: 100%;
+  }
+}
