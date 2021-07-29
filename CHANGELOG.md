@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.2.0`
+
+### [feat]
+- Article Customize
+
 ## `v2.1.1`
 
 ### [update]
