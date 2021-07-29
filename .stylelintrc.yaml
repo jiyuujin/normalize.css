@@ -19,8 +19,6 @@ rules:
   max-empty-lines: 2
   # selector-list-comma-newline-after
   selector-list-comma-newline-after: always-multi-line
-  # selector-max-specificity
-  selector-max-specificity: 0,2,0
   # Require or disallow a leading zero for fractional numbers less than 1.
   number-leading-zero: never
   # Disallow vendor prefixes for properties.
