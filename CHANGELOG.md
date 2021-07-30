@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.2.1`
+
+### [feat]
+- Text color in paragraph
+
 ## `v2.2.0`
 
 ### [feat]
