@@ -1,9 +1,14 @@
 # CHANGELOG
 
+## `v2.2.2`
+
+### [feat]
+- Text color in paragraph when dark mode
+
 ## `v2.2.1`
 
 ### [feat]
-- Text color in paragraph
+- Text color in paragraph when light mode
 
 ## `v2.2.0`
 
