@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## `v2.2.2`
+## `v2.3.0`
 
 ### [feat]
 - Heading Customize
