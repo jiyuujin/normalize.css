@@ -3,6 +3,15 @@
 ## `v2.2.2`
 
 ### [feat]
+- Heading Customize
+- Feed Card
+   - `title`
+   - `date`
+   - tag (`tags`)
+
+## `v2.2.2`
+
+### [feat]
 - Text color in paragraph when dark mode
 
 ## `v2.2.1`
