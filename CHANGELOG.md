@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## `v2.3.0`
+
+### [feat]
+- Heading Customize
+- Feed Card
+  - `title`
+  - `date`
+  - tag (`tags`)
+
 ## `v2.2.2`
 
 ### [feat]
