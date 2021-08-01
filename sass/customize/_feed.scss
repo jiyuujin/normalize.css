@@ -75,10 +75,8 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (prefers-color-scheme: dark) {
   .feeds {
-    flex-direction: column;
-
     a {
       color: #fff;
     }
@@ -93,5 +91,11 @@
         }
       }
     }
+  }
+}
+
+@media (max-width: 600px) {
+  .feeds {
+    flex-direction: column;
   }
 }
