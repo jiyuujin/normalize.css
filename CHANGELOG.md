@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.3.1`
+
+### [feat]
+- Feed layout when dark mode
+
 ## `v2.3.0`
 
 ### [feat]
