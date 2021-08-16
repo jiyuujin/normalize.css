@@ -97,6 +97,9 @@
 @media (max-width: 600px) {
   .feeds {
     flex-direction: column;
+  }
+
+  .feed-card {
     width: 100%;
   }
 }

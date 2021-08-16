@@ -1,9 +1,14 @@
 # CHANGELOG
 
-## `v2.3.2`
+## `v2.3.3`
 
 ### [update]
 - Update for width in Feed Card
+
+## `v2.3.2`
+
+### [update]
+- Update for width in Feed
 
 ## `v2.3.1`
 
