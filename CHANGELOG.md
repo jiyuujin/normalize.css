@@ -9,6 +9,7 @@
 
 ### [update]
 - Update for width in Feed
+   - This is Mistaken, but republished as `v2.3.3`
 
 ## `v2.3.1`
 
