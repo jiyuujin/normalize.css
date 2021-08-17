@@ -1,6 +1,6 @@
 {
   "name": "@nekohack/normalize.css",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "",
   "author": "yuukit <yuma.kitamura@ponos.co.jp>",
   "main": "dist/index.css",
