@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.3.5`
+
+### [update]
+- Update for color in anchor link on Feed Card
+
 ## `v2.3.4`
 
 ### [update]
