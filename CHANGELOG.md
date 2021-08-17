@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v1.2.2`
+
+### [update]
+- Update for color in anchor links
+
 ## `v1.2.1`
 
 ### [update]
