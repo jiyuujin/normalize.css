@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.3.6`
+
+### [update]
+- Delete paragraph style
+
 ## `v2.3.5`
 
 ### [update]
