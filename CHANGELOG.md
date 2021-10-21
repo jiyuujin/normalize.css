@@ -3,6 +3,11 @@
 ## `v2.3.7`
 
 ### [update]
+- Update position
+
+## `v2.3.7`
+
+### [update]
 - Delete width in articles
 
 ## `v2.3.6`
