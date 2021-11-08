@@ -158,10 +158,18 @@
       box-shadow: none;
     }
 
+    code {
+      background-color: #7f828b;
+    }
+
     pre {
       padding: 1.2rem .8rem;
       overflow-x: scroll;
       text-align: left;
+
+      code {
+        background: transparent;
+      }
     }
 
     img {

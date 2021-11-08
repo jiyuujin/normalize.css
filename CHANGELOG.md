@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.4.0`
+
+### [update]
+- Add backgroundColor in code styles
+
 ## `v2.3.7`
 
 ### [update]
