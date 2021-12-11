@@ -1,6 +1,5 @@
 const { src, dest, watch, parallel } = require('gulp')
-const sass = require('gulp-sass')
-sass.compiler = require('sass')
+const sass = require('gulp-sass')(require('sass'))
 const Fibers = require('fibers')
 const $ = require('gulp-load-plugins')({
     pattern: ['gulp-*', 'gulp.*'],
