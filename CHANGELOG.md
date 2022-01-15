@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.4.1`
+
+### [update]
+- Delete background color in blockquote
+
 ## `v2.4.0`
 
 ### [update]
