@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.5.0`
+
+### [feat]
+- Update cover styles
+
 ## `v2.4.1`
 
 ### [update]
@@ -7,7 +12,7 @@
 
 ## `v2.4.0`
 
-### [update]
+### [feat]
 - Add backgroundColor in code styles
 
 ## `v2.3.7`
