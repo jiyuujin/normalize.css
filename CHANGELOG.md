@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.5.1`
+
+### [update]
+- Update cover styles in mobile
+
 ## `v2.5.0`
 
 ### [feat]
