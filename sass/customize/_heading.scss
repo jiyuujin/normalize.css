@@ -63,31 +63,23 @@
 
 @media (max-width: 600px) {
   .cover {
-    position: relative;
-
     &-title {
-      position: absolute;
-      top: 0;
-      left: 0;
-      margin: 0;
+      width: 88%;
+      margin: 2% 6% 2% 6%;
       font-size: 1.6rem;
       text-align: left;
     }
 
     &-date {
-      position: absolute;
-      top: 0;
-      left: 0;
-      margin: 0;
+      width: 88%;
+      margin: 2% 6% 2% 6%;
       font-size: 1.2rem;
       text-align: left;
     }
 
     &-tags {
-      position: absolute;
-      top: 0;
-      left: 0;
-      margin: 0;
+      width: 88%;
+      margin: 2% 6% 2% 6%;
       font-size: 1.08rem;
       text-align: left;
     }
