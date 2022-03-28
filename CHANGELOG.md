@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.6.0`
+
+### [feat]
+- Update code styles
+
 ## `v2.5.1`
 
 ### [update]
