@@ -158,7 +158,7 @@
     }
 
     code {
-      background-color: #7f828b;
+      background-color: rgba(175, 184, 193, .4);
     }
 
     pre {
@@ -195,6 +195,10 @@
       ul {
         color: #fff;
       }
+    }
+
+    code {
+      background-color: rgba(110, 118, 129, .2);
     }
   }
 }
