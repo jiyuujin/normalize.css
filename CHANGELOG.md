@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## `v2.7.0`
+
+### [update]
+- Use Twitter official styles
+
 ## `v2.6.0`
 
 ### [feat]
