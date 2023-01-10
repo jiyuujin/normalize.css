@@ -15,7 +15,7 @@
   "devDependencies": {
     "fibers": "^5.0.0",
     "gulp": "4.0.2",
-    "gulp-load-plugins": "2.0.7",
+    "gulp-load-plugins": "2.0.8",
     "gulp-plumber": "1.2.1",
     "gulp-postcss": "9.0.1",
     "gulp-sass": "5.0.0",
